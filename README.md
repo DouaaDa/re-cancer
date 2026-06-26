@@ -218,3 +218,20 @@ FRONTEND_URL=http://localhost:3000
 ---
 
 *Développé pour la gestion du registre du cancer en Algérie.*
+```md
+---
+
+## 👩‍💻 My Contribution
+
+This project was developed as part of a university team project.
+
+### My responsibilities
+
+- Developed frontend features using React.
+- Developed backend features using Node.js and Express.
+- Implemented REST APIs.
+- Integrated the MySQL database.
+- Contributed to authentication and authorization (JWT).
+- Participated in testing, debugging and feature implementation.
+```
+
