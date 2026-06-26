@@ -93,7 +93,7 @@ npm start
 
 | Rôle | Email | Mot de passe |
 |------|-------|-------------|
-| Administrateur | admin@registre-cancer.dz | Admin@2024 |
+| Administrateur | admin@example.com | Configure in your .env file |
 
 ---
 
